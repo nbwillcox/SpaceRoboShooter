@@ -18,6 +18,10 @@ Everything is generated in code: sprites are vector-drawn on the fly, and all so
 | Choose a free upgrade | `1` `2` `3` or click a card |
 | Pause | `P` or `Esc` |
 
+### On a phone or tablet
+
+Play in landscape. Twin sticks: the left thumb moves, the right thumb aims and fires in that direction. **BOMB** is a smart bomb, and upgrade cards are chosen with a tap. The pause button opens the menu. The on-screen controls appear on touch devices automatically; Settings has size, opacity and a left-handed layout. Use your browser's *Add to Home Screen* to install it as a full-screen app.
+
 ## Gameplay
 
 - One touch from any robot or shot is fatal, so you are always moving. You start with 3 lives and earn an extra life every 25,000 points.
