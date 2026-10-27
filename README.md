@@ -22,6 +22,10 @@ Everything is generated in code: sprites are vector-drawn on the fly, and all so
 
 Play in landscape. Twin sticks: the left thumb moves, the right thumb aims and fires in that direction. **BOMB** is a smart bomb, and upgrade cards are chosen with a tap. The pause button opens the menu. The on-screen controls appear on touch devices automatically; Settings has size, opacity and a left-handed layout. Use your browser's *Add to Home Screen* to install it as a full-screen app.
 
+### Controller
+
+Plug in a gamepad and it just works: left stick moves, right stick aims and fires 8-way, **RB / LB** is the smart bomb, **X / Y / B** pick an upgrade card, **Start** pauses. In menus the D-pad / left stick moves the highlight, **A** selects, **B** goes back and **Start** plays or resumes. **Settings -> Controller** has a dead-zone slider and lets you remap every button.
+
 ## Gameplay
 
 - One touch from any robot or shot is fatal, so you are always moving. You start with 3 lives and earn an extra life every 25,000 points.
